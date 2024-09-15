@@ -1,1 +1,2 @@
-Usuario = vagrant
+Usuario=vagrant
+Model name:                           Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz
