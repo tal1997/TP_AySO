@@ -164,3 +164,19 @@ git push
 history -a $HOME/.bash_history
 ls -la $HOME 
 ls -la $HOME | history -a $HOME/.bash_history | cp $HOME/.bash_history Historial_comandos.txt
+ls -la $HOME 
+ls -la $HOME | history -a $HOME/.bash_history | cp $HOME/.bash_history Historial_comandos.txt
+git push
+git add .
+git config --global user.email "tomas.lafuente97@hotmail.com"
+git config --global user.name "tal1997"
+git commit -m "ADD: Modificacion archivo historial_comandos"
+git push
+ls $HOME
+ls -la $HOME
+ls -la $HOME | history -a $HOME/.bash_history | cp $HOME/.bash_history Historial_comandos_Lafuente_Tomas.txt"
+
+FIN
+dj
+
+history -a
