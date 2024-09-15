@@ -1,0 +1,166 @@
+ls
+ls -l
+ls -la
+man ls
+pwd
+echo "Hola"
+echo $HOME
+ls
+car README 
+cat README 
+cd repogit/
+ls
+git clone 
+git clone https://github.com/tal1997/Repo_Lafuente.git
+ls
+cd ..
+cd ~/repogit$
+ls
+ls -l
+ls -la
+man ls
+man man
+pwd
+whoami
+echo
+echo "hola"
+echo "hola mundo!
+echo "Hola Mundo!"
+echo $HOME
+
+
+"
+echo $HOME
+ls
+cat README
+cd repogit/
+ls
+cd Repo_Lafuente/
+ls
+history
+history > historial.txt
+ls
+cat historial.txt 
+ls
+git status
+git add .
+git status
+git commit -m "Mi primer commit"
+git config --global user.mail "tomas.lafuente97@hotmail.com
+git config --global user.name "tal1997"
+
+
+git config --global user.name "tal1997"
+?
+
+$Home
+cd ..
+ls
+
+
+
+
+
+
+git status
+
+
+
+ git config --global user.mail "tomas.lafuente97@hotmail.com
+git config --global user.name "tal1997"
+git commit -m "Mi primer commit"
+git push
+git status
+exit
+vagrant status
+ls
+pwd
+echo $HOME
+ls
+clear
+ls
+ls -l
+ls -la
+ssh -keygen -t ed25519
+ssh-keygen ed25519
+ssh-keygen -t ed25519
+ls -la
+cd ssh
+cd .ssh
+ls
+ls -l
+cat id_ed25519.pub
+cat id_ed25519
+clear
+ls
+cat id_ed25519.pub
+cd ..
+ls -l
+cd repogit/
+git clone git@github.com:tal1997/Repo_Lafuente.git
+ls -l
+ls
+cd Repo_Lafuente/
+cd ..
+cd UTN-FRA_SO_onBording/
+ls
+cd ..
+ls -la
+cd Repo_Lafuente/
+echo "hola"
+echo "hola" > hola.txt
+ls -l
+cat hola.txt
+git status
+git add .
+git status
+git commit -m "Mi primer commit"
+git status
+git push
+clean
+clear
+exit
+ehco $HOME
+echo $Home
+echo $HOME
+LS
+ls
+quit
+exit
+vagrant status
+status
+vagrant status
+exit
+cd repogit/
+cd TP_AySO/
+ls
+cat lista_ordenada 
+git add . 
+git config --global user.email "tomas.lafuente97@hotmail.com"
+git config --global user.name "tal1997"
+git commit -m "ADD: Listado de usuarios ordenada"
+git push
+vagrant reload
+sudo vagrant reload
+exit
+cd repogit/
+cd TP_AySO/
+git status
+git config --global user.email "tomas.lafuente97@hotmail.com"
+git config --global user.name "tal1997"
+git commit -m "ADD: Comando para Capturar y analizar el trafico de red"
+git push
+cat << FIN >> README.md 
+Alumno: Tomas Agustin Lafuente
+Division: 115
+Turno: Mañana
+FIN
+
+git add .
+git config --global user.email "tomas.lafuente97@hotmail.com"
+git config --global user.name "tal1997"
+git commit -m "ADD: Modificacion archivo README"
+git push
+history -a $HOME/.bash_history
+ls -la $HOME 
+ls -la $HOME | history -a $HOME/.bash_history | cp $HOME/.bash_history Historial_comandos.txt
